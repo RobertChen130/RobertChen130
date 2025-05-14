@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertChen130
-- 👀 I’m interested in python and Java
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Python and JavaScript
+- 🌱 I’m currently learning Python
 
 <!---
 RobertChen130/RobertChen130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
